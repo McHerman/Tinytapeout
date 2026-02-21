@@ -16,10 +16,10 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
+  ui[0]: "bit0 of increment"
+  ui[1]: "bit1 of increment"
+  ui[2]: "bit2 of increment"
+  ui[3]: "bit3 of increment"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
