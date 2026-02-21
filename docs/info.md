@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit uses a clock divider to generate a aprox 1hz clock which drives 4 registers. The register outputs are routed to a full-adder, and the counter value is incremented by 1.
 
 ## How to test
 
-Explain how to use your project
+NA
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The project uses the external 7-segment display.
